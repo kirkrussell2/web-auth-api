@@ -1,0 +1,3 @@
+C:\Users\krussell\source\repos\LoginSite\LoginSite\obj\Debug\LoginSite.njsproj.AssemblyReference.cache
+C:\Users\krussell\source\repos\LoginSite\LoginSite\obj\Debug\LoginSite.njsproj.CoreCompileInputs.cache
+C:\Users\krussell\source\repos\LoginSite\LoginSite\bin\Microsoft.NodejsTools.WebRole.dll
